@@ -3,7 +3,7 @@ package za.ac.cput.Entity;
 /*      Inventory.java
         Entity for the inventory
         Author: Devon Daniels (217299822)
-        Date: 11 June 2021
+        Date: 03 April 2022
 
  */
 public class Inventory {
